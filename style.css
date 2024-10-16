@@ -198,7 +198,7 @@ p{
 #inicio img{
     display: block;
     margin: auto;
-    width: 250px;
+    width: 350px;
 }
 #inicio hr{
     color: black;
@@ -280,7 +280,7 @@ p{
             display: none;
         }
 form{
-    margin: 20px 50px;
+    margin: 20px 20px;
     display: flex;
     flex-direction: column;
     font-size: 18px;
@@ -333,6 +333,10 @@ nav ul li a {
     font-size: 15px;
     padding: 10px;
     transition: color 0.3s;
+}
+#inicio img{
+width: 250px;
+
 }
     
     
